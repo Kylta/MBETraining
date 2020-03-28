@@ -13,6 +13,7 @@
 		460EB91C242F66D4009A4DDF /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 460EB91A242F66D4009A4DDF /* Main.storyboard */; };
 		460EB91E242F66D5009A4DDF /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 460EB91D242F66D5009A4DDF /* Assets.xcassets */; };
 		460EB921242F66D5009A4DDF /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 460EB91F242F66D5009A4DDF /* LaunchScreen.storyboard */; };
+		460EB929242F77B0009A4DDF /* MBEMetalView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 460EB928242F77B0009A4DDF /* MBEMetalView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		460EB91D242F66D5009A4DDF /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		460EB920242F66D5009A4DDF /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		460EB922242F66D5009A4DDF /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		460EB928242F77B0009A4DDF /* MBEMetalView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MBEMetalView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -59,6 +61,7 @@
 				460EB914242F66D4009A4DDF /* AppDelegate.swift */,
 				460EB916242F66D4009A4DDF /* SceneDelegate.swift */,
 				460EB918242F66D4009A4DDF /* ViewController.swift */,
+				460EB928242F77B0009A4DDF /* MBEMetalView.swift */,
 				460EB91A242F66D4009A4DDF /* Main.storyboard */,
 				460EB91D242F66D5009A4DDF /* Assets.xcassets */,
 				460EB91F242F66D5009A4DDF /* LaunchScreen.storyboard */,
@@ -141,6 +144,7 @@
 				460EB919242F66D4009A4DDF /* ViewController.swift in Sources */,
 				460EB915242F66D4009A4DDF /* AppDelegate.swift in Sources */,
 				460EB917242F66D4009A4DDF /* SceneDelegate.swift in Sources */,
+				460EB929242F77B0009A4DDF /* MBEMetalView.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
